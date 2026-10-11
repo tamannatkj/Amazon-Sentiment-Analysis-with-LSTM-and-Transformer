@@ -16,7 +16,7 @@ from model import SentimentNet, AmazonSentimentDataset, load_distilbert
 # ---------- Settings ----------
 DATA_PATH = "data/Reviews.csv"
 RESULTS_DIR = "results"
-N_PER_CLASS = 500      # START SMALL to test. Later change to 10000
+N_PER_CLASS = 10000      
 SEQ_LEN = 200          # LSTM: max words per review
 MAX_LEN = 128          # DistilBERT: max tokens per review
 LSTM_EPOCHS = 5
