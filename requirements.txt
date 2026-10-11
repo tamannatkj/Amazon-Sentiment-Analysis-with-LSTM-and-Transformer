@@ -1,0 +1,17 @@
+torch
+numpy
+pandas
+scikit-learn
+transformers
+evaluate
+accelerate
+nltk
+tqdm
+protobuf
+matplotlib
+seaborn
+jupyter
+ipykernel
+nltk
+evaluate
+accelerate

@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+models/
+data/
+bert_output/
+small_reviews.csv
+project.zip
+output.zip

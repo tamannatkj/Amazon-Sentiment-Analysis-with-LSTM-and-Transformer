@@ -1,0 +1,6 @@
+Review,LSTM,LSTM_pos_prob,DistilBERT,DistilBERT_pos_prob
+This coffee is absolutely amazing! Best I have ever had.,POSITIVE,0.995,POSITIVE,0.997
+Terrible taste. The package was stale and I want a refund.,NEGATIVE,0.002,NEGATIVE,0.004
+"It's okay, not the best but fine for the price.",POSITIVE,0.863,NEGATIVE,0.073
+"I was skeptical at first, but it turned out to be a great purchase.",POSITIVE,0.889,POSITIVE,0.994
+Shipping was fast but the snacks arrived crushed and stale.,NEGATIVE,0.059,NEGATIVE,0.005
